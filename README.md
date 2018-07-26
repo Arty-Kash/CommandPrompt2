@@ -4,6 +4,6 @@ This is a Xamarin.Forms sample program to emulate MS-DOS Command Prompt User Int
 
 English: 
 
-Japanese: 
+Japanese: https://fightwithprogramming.wordpress.com/2018/07/27/command-prompt-2/
 
-[Keywords] Xamarin.Forms, 
+[Keywords] Xamarin.Forms, ScrollView, ScrollToAsync, PCL Storage, Command Prompt, Entry without Border Line, Blinking Cursor
